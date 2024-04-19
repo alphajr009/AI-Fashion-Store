@@ -1,0 +1,28 @@
+.products-header {
+  display: flex;
+  flex-direction: row;
+  gap: 80%;
+}
+
+.ph-btn Button {
+  background-color: #ef5252;
+  color: white;
+  border: none;
+}
+
+.scrb-s2-iu-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.product-modal
+  :where(.css-dev-only-do-not-override-1kuana8).ant-form-item
+  .ant-form-item-label
+  > label {
+  width: 110px;
+}
+
+.categort-align .ant-form-item-control-input {
+  margin-left: -6% !important;
+  margin-top: 5px;
+}
